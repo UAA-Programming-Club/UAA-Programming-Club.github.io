@@ -1,0 +1,16 @@
+#contestsTitle {
+  margin-bottom: 25px;
+}
+
+#contests {
+  list-style: none;
+}
+
+#contests li {
+  margin-top: 10px;
+  margin-left: -35px;
+}
+
+#contentZone {
+  padding: 30px;
+}
