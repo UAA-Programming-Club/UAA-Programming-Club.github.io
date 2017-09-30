@@ -14,3 +14,15 @@
 #contentZone {
   padding: 30px;
 }
+
+#aboutTitle {
+  margin-bottom: 30px;
+}
+
+#sites {
+    list-style-type: square;
+}
+
+#sites li {
+    margin: 5px;
+}
